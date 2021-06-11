@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Container>
+    <WBSItem>
+        <IWBSItemObj/>
+        <IObject OBID="OBID1" UID="XXXX.YY.AA.BBBB.CCC.DDD1" DomainUID="DomainUID"
+                 CreationDate="2021/03/22-08:20:00:000" TerminationDate="9999/12/31-23:59:59:999"
+                 LastUpdatedDate="2021/03/22-08:20:00:000" Config="Config" CreationUser="CreationUser"
+                 TerminationUser="" UniqueKey="XXXX.YY.AA.BBBB.CCC.DDD1" Name="XXXX.YY.AA.BBBB.CCC.DDD1"
+                 Description="Прочие конструкции" ContainerID="ContainerID"/>
+    </WBSItem>
+    <WBSItem>
+        <IWBSItemObj/>
+        <IObject OBID="OBID2" UID="XXXX.YY.AA.BBBB.CCC.DDD2" DomainUID="DomainUID"
+                 CreationDate="2021/03/22-08:20:00:000" TerminationDate="9999/12/31-23:59:59:999"
+                 LastUpdatedDate="2021/03/22-08:20:00:000" Config="Config" CreationUser="CreationUser"
+                 TerminationUser="" UniqueKey="XXXX.YY.AA.BBBB.CCC.DDD2" Name="XXXX.YY.AA.BBBB.CCC.DDD2"
+                 Description="Прочие конструкции" ContainerID="ContainerID"/>
+    </WBSItem>
+    <WBSItem>
+        <IWBSItemObj/>
+        <IObject OBID="OBID3" UID="XXXX.YY.AA.BBBB.CCC.DDD3" DomainUID="DomainUID"
+                 CreationDate="2021/03/22-08:20:00:000" TerminationDate="9999/12/31-23:59:59:999"
+                 LastUpdatedDate="2021/03/22-08:20:00:000" Config="Config" CreationUser="CreationUser"
+                 TerminationUser="" UniqueKey="XXXX.YY.AA.BBBB.CCC.DDD3" Name="XXXX.YY.AA.BBBB.CCC.DDD3"
+                 Description="Прочие конструкции" ContainerID="ContainerID"/>
+    </WBSItem>
+</Container>
