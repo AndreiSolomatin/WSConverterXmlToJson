@@ -41,7 +41,7 @@ public class XmlProcessor {
                         break;
 
                     case "IObject":
-                        if (count == 1000) {
+                        if (count == 10) {
                             send(buffer.toString());
                             buffer = new StringBuffer();
                             count = 1;

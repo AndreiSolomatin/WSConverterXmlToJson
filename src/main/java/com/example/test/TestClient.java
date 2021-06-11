@@ -24,6 +24,8 @@ public class TestClient {
 
             String responseSoap = soap.sendWBS(xml);
 
+            System.out.println(responseSoap);
+
         } catch (Exception e) {
             System.out.println("TestClientException" + e.getMessage());
         }

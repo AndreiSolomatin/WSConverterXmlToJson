@@ -14,7 +14,7 @@ public class XmlGenerator {
         sb.append("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n");
         sb.append("<Container>\n");
 
-        for (int i = 1; i <= 100000; i++) {
+        for (int i = 1; i <= 100; i++) {
             sb.append("<WBSItem>\n")
                     .append("<IWBSItemObj/>\n")
                     .append("<IObject ")
